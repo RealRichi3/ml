@@ -1,0 +1,30 @@
+- What is the difference between the training set and test set
+- What does the RUL stand for 
+- Are there other data preprocessin steps
+- Compare other data preprocessing steps and see thier tradeoffs
+
+# Data preprocessing
+- What is the significance of feature extraction - What are features with little or no variablitity 
+- How does prognosability analysis work and how was it used in this case
+- What is normalization and what role does it play here
+- What is response clipping
+- Why do we need to limit RUL values to a maximum threshold to focus model on the critical degradation phase
+- What is the critical degradation phase and why is it significant
+- Why do we need to focus the model in this phase
+
+
+# CNN model architecture
+- What is the current model architecture
+- What other architectures, their tradeoffs and how is the current architecture justified
+- How does the current architecture work
+- What are the strengths and weaknesses of the current architecture
+
+
+# Training and Evaluation
+- Why is the model trained using the Adamp optimizer, mean squar error loss, root mean squared error (RMSE) as the evaluation metric
+- Are there alternative methods,
+- What is the strength and weakness of this current approach.
+
+
+# Results and 
+
